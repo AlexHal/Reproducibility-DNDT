@@ -2,16 +2,6 @@
 
 This repository contains a mini-project focused on reproducing the results of the Deep Neural Decision Trees (DNDT) model, as outlined in the 2018 paper *Deep Neural Decision Trees*. The project evaluates the claims of interpretability, performance, and simplicity of DNDT compared to traditional Decision Trees (DT) and Neural Networks (NN).
 
-## Table of Contents
-- [Overview](#overview)
-- [Datasets](#datasets)
-- [Methodology](#methodology)
-- [Results](#results)
-- [Usage](#usage)
-- [Requirements](#requirements)
-- [Contributors](#contributors)
-
----
 
 ## Overview
 The goal of this project is to reproduce the DNDT model's results and evaluate its performance on multiple tabular datasets. The DNDT model combines the interpretability of Decision Trees with the power of Neural Networks, using gradient descent for training and GPU acceleration for scalability.
