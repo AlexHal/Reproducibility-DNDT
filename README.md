@@ -26,3 +26,7 @@ Each dataset was preprocessed and analyzed to ensure compatibility with the DNDT
 - DNDT showed competitive accuracy but was dataset-dependent.
 - Interpretability through tree visualization was successfully demonstrated.
 - Challenges arose from incomplete details in the original paper (e.g., missing hyperparameters).
+
+
+## References
+- [Deep Neural Decision Trees Paper](https://arxiv.org/pdf/1806.06988v1.pdf)
